@@ -1,7 +1,7 @@
 /apps/IBM/WebSphere/WCS/bin/di-buildindex.sh -instance staginguat -masterCatalogId 10001 -dbuser wcsuser -dbuserpwd abcd1234
 Added Ashish
 1:wq!
-
+new
 /apps/IBM/IBMHTTPServer/WCS/WCIHSConf/httplogs
 
 /apps/IBM/IBMHTTPServer/WCS/WCIHSConf/httpconf/plugin-cfg.xml
