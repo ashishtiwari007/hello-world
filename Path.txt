@@ -2,6 +2,7 @@
 Added Ashish
 1:wq!
 new
+feature2
 /apps/IBM/IBMHTTPServer/WCS/WCIHSConf/httplogs
 
 /apps/IBM/IBMHTTPServer/WCS/WCIHSConf/httpconf/plugin-cfg.xml
